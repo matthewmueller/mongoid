@@ -1,0 +1,15 @@
+{
+  "name": "mongoid",
+  "version": "0.0.1",
+  "description": "generate mongo objectids, turn hex strings into objectids",
+  "keywords": [],
+  "author": "matthew mueller <mattmuelle@gmail.com>",
+  "dependencies": {
+    "bson": "~0.1.6"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  },
+  "main": "index"
+}
